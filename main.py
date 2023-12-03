@@ -1,3 +1,4 @@
-from funcs import add
+from funcs import add, subtract
 
 print(add)
+print(subtract)
